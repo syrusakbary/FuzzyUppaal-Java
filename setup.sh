@@ -1,8 +1,5 @@
 #!/bin/sh
 
-mkdir FuzzyUppaal;
-cd FuzzyUppaal;
-git clone git://github.com/SyrusAkbary/FuzzyUppaal-Java.git .;
 mkdir bin;
 cd lib;
 architecture=`uname -m`
