@@ -1,0 +1,31 @@
+<world>
+	<type>toric</type>
+	<map width="150" height="150" />
+	<objects>
+		<space>
+			<name>Suelo1</name>
+			<position>
+				<cell x="1" y="2">
+			</position>
+		</space>
+		<swarm>
+			<name>asdfasdf</name>
+			<colonies>
+				<colony>
+					<name>asdfasdf</name>
+					<position>
+						<cell x="1" y="2">
+					</position>
+				</colony>
+				<colony>
+					<name>asdfasdf</name>
+					<position>
+						<cell x="1" y="2">
+					</position>
+				</colony>
+			</colonies>
+			<workers>
+			</workers>
+		</swarm>
+	</objects>
+</world>
